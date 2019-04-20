@@ -23,13 +23,12 @@ It's possible to extract essential data from documents or to have a program that
 
 Examples:
 - Automate time-consuming tasks for a human such as:
-    - Categorize documents according to their content
-    - Summarize a document automatically to read it more quickly
-    - Find specific information (financial or other data) 
-       
+    - *Categorize documents according to their content*
+    - *Summarize a document automatically to read it more quickly*
+    - *Find specific information (financial or other data)*       
 - Answer simple customer questions more quickly using conversational agent (ChatBot):
-    - Helps guide clients to the desired information through a natural language conversation
-    - Enables the customer to make transactions on the account without having to contact a call center
+    - *Helps guide clients to the desired information through a natural language conversation*
+    - *Enables the customer to make transactions on the account without having to contact a call center*
 
 
 ### Security/Compliance
@@ -38,11 +37,10 @@ The multitude of information accessible by banking institutions makes it quite s
 
 Examples:
 - Detect fraud in real time
-    - Fraudulent transactions
-    - Fraudulent connections
-
+    - *Fraudulent transactions*
+    - *Fraudulent connections*
 - Anti-money laundering
-    - Identify suspicious behaviours using transaction history
+    - *Identify suspicious behaviours using transaction history*
 
 
 ### Insurance/Credit
@@ -61,10 +59,10 @@ Different approaches can be used to predict market movements. These algorithms a
 
 Examples:
 - Predict stock prices through different types of analysis
-    - Fundamental Analysis (based on the study of financial statements)
-    - Quantitative Analysis (based on probabilistic models)
-    - Technical Analysis (based on price history)
-    - Analysis based on external data (based on twitter, news, etc...)
+    - *Fundamental Analysis (based on the study of financial statements)*
+    - *Quantitative Analysis (based on probabilistic models)*
+    - *Technical Analysis (based on price history)*
+    - *Analysis based on external data (based on twitter, news, etc...)*
 - Markovian Decision-Making Process (MDP) for the Evaluation of Options
 
 
