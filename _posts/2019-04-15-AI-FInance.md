@@ -25,8 +25,8 @@ Examples:
 - Automate time-consuming tasks for a human such as:
     - Categorize documents according to their content
     - Summarize a document automatically to read it more quickly
-    - Find specific information (financial or other data)
-
+    - Find specific information (financial or other data) 
+       
 - Answer simple customer questions more quickly using conversational agent (ChatBot):
     - Helps guide clients to the desired information through a natural language conversation
     - Enables the customer to make transactions on the account without having to contact a call center
@@ -40,6 +40,7 @@ Examples:
 - Detect fraud in real time
     - Fraudulent transactions
     - Fraudulent connections
+
 - Anti-money laundering
     - Identify suspicious behaviours using transaction history
 
