@@ -14,11 +14,12 @@ comments: true
 Artificial Intelligence and more specifically machine learning is transforming several industries. Without going into too much detail, Machine Learning is a subset of data science. They are algorithms that observe, manipulate and transform data in order to make predictions. Unlike traditional programming, there is no need to precisely define all the steps between incoming and outgoing data. We implement a learning model that adjusts by iterating on a large number of cases.
 In many cases, the quality of the result will depend on the amount of data available to drive the model.
 
-Now let's review some examples of applications in the financial world (banking, insurance and investment):
+Now let's review some examples of applications in the financial world (banking, insurance and investment).
+
 
 ### Automation
 
-It's possible to extract essential data from documents or to have a program that can interact in natural language with a client via the combination of a language model and a natural language processing algorithm. A language model is a model that predicts the next word in a sentence based on the previous words. It's often trained on a very large number of documents, for example OpenAI (https://openai.com/blog/better-language-models/) trained their model with 8 million web pages. Afterwards, you can teach the model the specific features of a certain type of document (legal documents, for example) using a technique called Transfer Learning.
+It's possible to extract essential data from documents or to have a program that can interact in natural language with a client via the combination of a language model and a natural language processing algorithm. A language model is a model that predicts the next word in a sentence based on the previous words. It's often trained on a very large number of documents, for example [OpenAI](https://openai.com/blog/better-language-models/) trained their model with 8 million web pages. Afterwards, you can teach the model the specific features of a certain type of document (legal documents, for example) using a technique called Transfer Learning.
 
 Examples:
 - Automate time-consuming tasks for a human such as:
@@ -29,6 +30,7 @@ Examples:
 - Answer simple customer questions more quickly using conversational agent (ChatBot):
     - Helps guide clients to the desired information through a natural language conversation
     - Enables the customer to make transactions on the account without having to contact a call center
+
 
 ### Security/Compliance
 
@@ -41,6 +43,7 @@ Examples:
 - Anti-money laundering
     - Identify suspicious behaviours using transaction history
 
+
 ### Insurance/Credit
 
 Such algorithms can also be used to model credit risk.  By using data from a company (financial reports and other documents) as parameters, we can predict a default probability that can help risk analysts to produce their ratings.
@@ -49,6 +52,7 @@ Examples :
 - Support investment rating for private markets
 - Suggest credit ratings and pricing in a more sophisticated and complex way than traditional tools based on a number of predefined rules
 - Allows you to make a decision on whether or not to grant a loan in a few seconds
+
 
 ### Trading/Risk/Valuation
 
@@ -61,6 +65,7 @@ Examples:
     - Technical Analysis (based on price history)
     - Analysis based on external data (based on twitter, news, etc...)
 - Markovian Decision-Making Process (MDP) for the Evaluation of Options
+
 
 ### Conclusion
 
