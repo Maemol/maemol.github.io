@@ -30,6 +30,7 @@ Examples:
     - *Helps guide clients to the desired information through a natural language conversation*
     - *Enables the customer to make transactions on the account without having to contact a call center*
 
+  
 
 ### Security/Compliance
 
@@ -42,6 +43,7 @@ Examples:
 - Anti-money laundering
     - *Identify suspicious behaviours using transaction history*
 
+  
 
 ### Insurance/Credit
 
@@ -52,6 +54,7 @@ Examples :
 - Suggest credit ratings and pricing in a more sophisticated and complex way than traditional tools based on a number of predefined rules
 - Allows you to make a decision on whether or not to grant a loan in a few seconds
 
+  
 
 ### Trading/Risk/Valuation
 
@@ -65,7 +68,8 @@ Examples:
     - *Analysis based on external data (based on twitter, news, etc...)*
 - Markovian Decision-Making Process (MDP) for the Evaluation of Options
 
-
+  
+  
 ### Conclusion
 
 There are many use cases in various sectors of finance. Artificial intelligence can be an asset in supporting growth, reducing operational risks and building on the mountains of data historized by financial institutions. 
