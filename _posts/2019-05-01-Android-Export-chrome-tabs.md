@@ -21,13 +21,13 @@ After some research, I found this thread on [stackexchange](https://android.stac
 
 4. Go to More tools then Remote devices.
 
-![Renote devices](img\devtools_remote.jpg)
+![Remote devices](/img/devtools_remote.jpg)
 
 5. Select your device and check that you see your tabs
 
 6. Open a new dev tools window (ctrl + shift + J) then select the element with your tabs
 
-![Element](img\devtools_element.jpg)
+![Element](/img/devtools_element.jpg)
 
 7. Find <div class="vbox"> under <div class=device-page-list vbox device-viw-more-toggled>
 
@@ -42,7 +42,7 @@ for (i=0;i<tabs.length;i++){
 copy(str)
 ```
 
-![Element](img\devtools2.jpg)
+![Element](/img/devtools2.jpg)
 
 9. Now you can paste the list somewhere. I used ~ as a separateur between the name and the URL to split them easily.
 
