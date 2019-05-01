@@ -13,25 +13,25 @@ That's why I need to export them in a list to review them on my computer.
 After some research, I found this thread on [stackexchange](https://android.stackexchange.com/questions/56635/how-can-i-export-the-list-of-open-chrome-tabs) and it's the only way I manage to export all my tabs without losing tabs or character in their url.
 
 
-1. So first, connect your Android phone via USB and activate the USB debugging.
+- So first, connect your Android phone via USB and activate the USB debugging.
 
-2. On your computer, open chrome dev tools (ctrl + shift + J).
+- On your computer, open chrome dev tools (ctrl + shift + J).
 
-3. Undock into separate window.
+- Undock into separate window.
 
-4. Go to More tools then Remote devices.
+- Go to More tools then Remote devices.
 
 ![Remote devices](https://maemol.github.io/img/devtools_remote.jpg)
 
-5. Select your device and check that you see your tabs.
+- Select your device and check that you see your tabs.
 
-6. Open a new dev tools window (ctrl + shift + J) then select the element with your tabs.
+- Open a new dev tools window (ctrl + shift + J) then select the element with your tabs.
 
 ![Element](https://maemol.github.io/img/devtools_element.jpg)
 
-7. Find <div class="vbox"> under <div class=device-page-list vbox device-viw-more-toggled> and check that you see your tabs.
+- Find <div class="vbox"> under <div class=device-page-list vbox device-viw-more-toggled> and check that you see your tabs.
 
-8. Go to the console and run this script :
+- Go to the console and run this script :
 
 ```javascript
 tabs = Array.from(document.querySelector('div /deep/ div /deep/ div /deep/ div /deep/ div /deep/ div /deep/ div.vbox.flex-auto').shadowRoot.querySelectorAll('.devices-view .device-page-list .vbox'), s => ({name: s.querySelector('.device-page-title').textContent, url: s.querySelector('.device-page-url .devtools-link').getAttribute('href')})) 
@@ -42,8 +42,8 @@ for (i=0;i<tabs.length;i++){
 copy(str)
 ```
 
-![Element](https://maemol.github.io/img/devtools2.jpg)
+![Console](https://maemol.github.io/img/devtools.jpg)
 
-9. Now you can paste the list somewhere. I used ~ as a separateur between the name and the URL to split them easily.
+- Now you can paste the list somewhere. I used ~ as a separateur between the name and the URL to split them easily.
 
 
