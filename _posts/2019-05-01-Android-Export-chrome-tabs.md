@@ -6,7 +6,7 @@ tags: [Android]
 comments: true
 ---
 
-I read a lot during transit, often I start an article and don't have time to finish it so I just keep the tab open and wait to find the time to finish it. That's why, after a while, I find myself with more than 100 open tabs and no way to easily find what's important and what's not.
+I read a lot during transit, often I start an article and don't have time to finish it so I just keep the tab open and wait to find the time to finish it. After a while, I find myself with more than 100 open tabs and no way to easily find what's important and what's not.
 
 That's why I need to export them in a list to review them on my computer.
 
