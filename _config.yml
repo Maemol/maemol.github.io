@@ -25,7 +25,7 @@ description: Maemol's blog.
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - GitHub Pages: "https://pages.github.com/"
+    - Bloups : "https://play.google.com/store/apps/details?id=com.bloups.lussier.annie.com.bloupsinapp&hl=fr"
   Author's home: "https://maemol.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
