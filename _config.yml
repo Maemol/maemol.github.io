@@ -24,6 +24,7 @@ description: Maemol's blog.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Apps Privacy Policy: "privacypolicy"
   Resources:
     - Bloups : "https://play.google.com/store/apps/details?id=com.bloups.lussier.annie.com.bloupsinapp&hl=fr"
   Author's home: "https://maemol.github.io"
