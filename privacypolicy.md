@@ -13,7 +13,7 @@ Last updated: May 11, 2021
 We are not collecting any personal data of any kind that can be used to contact or identify you in the following Apps :
 
 - Bloups!
-- Boups! Intégral
+- Bloups! Intégral
 - Blips!
 - Blips! Intégral  
 
