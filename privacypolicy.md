@@ -19,7 +19,7 @@ We are not collecting any personal data of any kind that can be used to contact 
 
 ## Links to Other Websites
 
-Our Service may contain links to other apps or website that are operated by Us. There is no third parties links.
+Our Service may contain links to other apps or website that are operated by Us. There are no third parties links.
 
   
 
