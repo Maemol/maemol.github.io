@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Privacy Policy
-subtitle: Bloups!, Bloups! Intégral, Blips!, Blips! Intégral
+subtitle: Bloups!, Bloups! Intégral, Blips!, Blips! Intégral, Tadadam!
 ---
 
 # Privacy Policy
 
-Last updated: May 11, 2021
+Last updated: April 02, 2025
 
 ## Children's Privacy And Personal Data
 
@@ -15,13 +15,12 @@ We are not collecting any personal data of any kind that can be used to contact 
 - Bloups!
 - Bloups! Intégral
 - Blips!
-- Blips! Intégral  
+- Blips! Intégral
+- Tadadam!
 
 ## Links to Other Websites
 
 Our Service may contain links to other apps or website that are operated by Us. There are no third parties links.
-
-  
 
 ## Changes to this Privacy Policy
 
